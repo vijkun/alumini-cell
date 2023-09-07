@@ -1,0 +1,10 @@
+.carousel-caption{
+    background-color: aqua;
+    text-decoration-color: black;
+    padding: 15px;
+    border-radius: 10px;
+    color: black;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: black;
+}

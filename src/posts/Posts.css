@@ -1,0 +1,131 @@
+.image{
+    max-height: 250px;
+    max-width: 250px;
+}
+.navbar-brand {
+    padding-top: 0.3125rem; 
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+}
+.notifications-container{
+
+    box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+
+}
+.announcement-container{
+    /* margin: 20px; */
+    box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+/* for create post */
+.createpost{
+    width: 100%;
+    max-width: 650px;
+    border-radius:4px ;
+    background-color: #fff;
+    padding: 12px;
+    margin: 10px;
+}
+.captionforcreatepost{
+    border: none;
+    width: 100%;
+    outline: none;
+    margin-top: 6px;
+    font-size: 14px;
+}
+.captionforcreatepost :focus{
+    outline:none;
+}
+.createpostuploadbtn{
+    border:none;
+    background-color: #fff;
+}
+.bottomofcreatepost{
+    display: flex;
+    justify-content: space-between;
+}
+#imagepreview{
+    display: none;
+    height: 120px;
+    margin: 6px;
+    border-radius: 6px;
+}
+
+   /* for post */
+
+.post{
+    width: 90vw;
+    max-width: 650px;
+    border-radius:4px ;
+    background-color: #fff;
+    padding: 12px;
+    margin: 10px;
+}
+.headerforpost{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.headerforpostleftpart{
+    display: flex;
+    align-items: center;
+}
+.postpropic{
+    height: 32px;
+    border-radius: 50%;
+}
+.postusername{
+    align-items: center;
+    margin-left: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.centerofpost{
+    padding: 10px;
+    border-radius: 5px;
+    margin-right:auto;
+    margin-left: auto;
+    margin: 1px auto 1px auto;
+}
+.postimage{
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+.postbottom{
+
+}
+
+
+/* for posts */
+.posts{
+    background-color: #EEEEEE;
+    justify-content: center;
+}
+.postdeletebtn{
+    background-color: #fff;
+    border: none;
+}
+.postinposts{
+    margin-top: 24px;
+    align-self: center;
+}
+.postscol{
+    justify-content: center;
+    align-items: center;
+}
+.createpostinpostspage{
+    display: flex;
+    justify-content: center;
+}
+.postsbox{
+    display: flex;
+    justify-content: center;
+}

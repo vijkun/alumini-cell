@@ -1,0 +1,25 @@
+.usershome{
+    background-color: #EEEEEE;
+}
+.userscardscontainer{
+    background-color: #fff;
+    margin: 30px;
+    display: block;
+}
+.userstextheading{
+    padding: 10px;
+    background-color: #39A2DB;
+    width:100%;
+}
+
+.cardscontainer{
+    padding: 20px;
+    margin: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+.cc{
+    height: 250px;
+    background-color: #EEEEEE;
+    border: 5px;
+}

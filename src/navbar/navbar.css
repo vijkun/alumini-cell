@@ -1,0 +1,30 @@
+.navbar_img {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  /* margin-left: 20px; */
+}
+.navbar_logoimg {
+  height: 45px;
+  width: 45px;
+  border-radius: 10%;
+  /* margin-left: 20px; */
+}
+.header {
+  /* background-color: black; */
+  padding: 8px 20px;
+  border-bottom: 1px solid #dde0e1;
+  object-fit: contain;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+  /* position: sticky; */
+  /* background-color: white; */
+  z-index: 100;
+  top: 0;
+}
+.Navbarlink{
+    text-decoration: none;
+    color: black;
+}

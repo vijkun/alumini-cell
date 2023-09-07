@@ -1,0 +1,65 @@
+.margin-container{
+    margin: 20px;
+    box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    background-color:white;
+    color: black;
+    padding: 20px;
+}
+.contact{
+    /* margin:8px; */
+    
+    padding: 40px 15px;
+    font-size: 16px;
+}
+.icon{
+    height: 14px;
+    width: 14px;
+    margin-bottom: 0%;
+}
+.links-of-footer{
+    text-decoration: none;
+    color: black;
+}
+.facebook-icon{
+    width: 48px;
+    margin: 20px;
+}
+.insta-icon{
+    width: 48px;
+    margin: 20px;
+}
+.icon-container{
+    padding: 15px;
+}
+.map-container{
+    max-width: 60px;
+    max-height: 50px;
+}
+.map{
+    box-sizing: border-box;
+}
+.bottom-container{
+    background-color: #171717;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #DA0037;
+}
+ul li{
+    display: inline;
+    padding: 10%;
+}
+.bottom{
+    margin-top: auto; 
+}
+ul li{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 3px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.bottom.row{
+    margin-right: 0px;
+    margin-right: 0px;
+}
